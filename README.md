@@ -49,7 +49,7 @@
 
         <p>I love what the creator of <a href="http://motherfuckingwebsite.com/">this site's inspiration</a> did. What I'm saying is that it's so, so simple to make sites easier to read. Websites are broken by default, they are functional, high-performing, and accessible, but they're also fucking ugly. You and all the other web designers out there need to make them not total shit.</p>
 
-        <blockquote>"You're a fucking moron if you use default browser styles."</br> - Eleanor Roosevelt</blockquote>
+        <blockquote>"You're a fucking moron if you use default browser styles."<br> - Eleanor Roosevelt</blockquote>
 
         <hr>
 
